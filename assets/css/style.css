@@ -8,11 +8,15 @@ body{
     color: violet;
    
 }
-
+/*header*/
 header{
     background-color: blue;
     padding:0% 40% 0% 0%;
     text-align: justify;
+}
+#header{
+    position: fixed;
+    top: 0;
 }
 nav{
     
