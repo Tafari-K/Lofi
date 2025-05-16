@@ -1,3 +1,15 @@
 body{
-    background-color:aqua
+    background-image: url(/assets/images/lofi-background-image.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+   
+}
+
+header{
+    background-color: blue;
+    padding:0% 40% 0% 0%;
+    text-align: justify;
 }
