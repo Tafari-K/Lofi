@@ -5,6 +5,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     text-align: center;
+    color: violet;
    
 }
 
@@ -12,4 +13,26 @@ header{
     background-color: blue;
     padding:0% 40% 0% 0%;
     text-align: justify;
+}
+nav{
+    
+    display: flex;
+    text-align: center;
+    color: white;
+    background-color: black;
+  
+
+}
+ul{
+    list-style-type: none;
+    
+}
+.about{
+    background-color: black;
+    color: white;
+    padding: 0% 40% 0% 0%;
+    
+}
+.chillzone{
+    background-color:black
 }
