@@ -36,7 +36,7 @@ header a {
 
 /* Navbar style with dropbox toggle */
 nav{
-    position:absolute
+    position:absolute;
     width: 100%;
     left: 0;
     padding: 0 1rem;
