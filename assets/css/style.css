@@ -13,39 +13,6 @@ body{
 }
 
 /* Header style */
-header{
-    background-color: black;
-    padding: 0 1rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 60px;
-    font-family: monsterrat;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-   
-}
-header a {
-    text-decoration: none;
-    color: inherit;
-}
-
-/* Navbar style with dropbox toggle */
-.nav-toggle{
-    position:absolute;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    top: 100%;
-
-}
-
-/*Nav toggle*/
 
 #nav-toggle:checked~nav{
     display: block;
@@ -71,4 +38,17 @@ ul{
 }
 .chillzone{
     background-color:black
+}
+
+li{
+    
+}
+
+
+/* Media query: larger or landscape phones (576px and up) */
+@media screen and (min-width: 576px){ 
+    #photos {
+    column-count: 2;
+    column-gap: 0;
+    }
 }

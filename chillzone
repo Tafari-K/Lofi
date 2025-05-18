@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Chilled Hiphop Jazz beats"/>
+    <meta name="keywords" content="lofi, music, chill, beats, jazz"/>
+   
+    <title> Lofi </title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+</head>
+
+<body>
+
+ <!-- Header -->   
+<header class="header" id="header">
+    <h1 id="logo">Lofi</h1>
+
+    <nav class="nav-toggle">
+        <ul id="nav-toggle-list">
+            <li><a href="#about">About</a></li>
+            <li><a href="#chillzone">Chill Zone</a></li>
+            <li><a href="#signup">Sign Up</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<!-- About -->
+
+
+
+
+
+<main>
+<!--Chill Zone (music videos) -->
+
+<section id="chillzone" class="chillzone"> 
+        <h2>Chill Zone</h2>
+        
+            <p>Welcome to "Chill Zone", where you can explore a curated selection of lofi tracks that embody the essence of chilled hip-hop jazz beats. 
+                Each track is carefully chosen to create a relaxing and immersive listening experience. Whether you're looking for background music for studying, 
+                working, or simply unwinding, the collection has something for everyone.</p>
+            <p>Feel free to browse through the tracks and discover the perfect soundscape to accompany your day.</p>
+            <p> Fun Fact the Longest Lofi Stream was over 20,843hours with 668 million views</p>
+   
+</section>
+
+<!-- Youtube Videos--> 
+
+<section>
+    <div class="video-container">
+        <h3>Playlists for the Love of Lofi</h3>
+        <iframe src="https://www.youtube.com/embed/jfKfPfyJRdk?si=0rhJ50OL-13RyJRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/S_MOd40zlYU?si=qwdQ5Nz-ydTwAxwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/Yd7vDterctQ?si=AJMBR_yGk9QbmitC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/9kzE8isXlQY?si=WXXaCFT-0q1wq8UR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</section>
+
+
+</main>
+<!-- Social Media -->
+ <footer>
+        <ul id="social-networks">
+            <li>
+                <a href="https://www.instagram.com/lofigirl/?hl=en" target="_blank" rel="noopener"
+                aria-label="Visit Our Instragram page (opens in a new tab)"></a><i class="fa-brands fa-instagram"></i>
+            </li>
+
+            <li>
+                <a href="https://www.facebook.com/lofigirl/" target="_blank" rel="noopener" 
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+
+            <li>
+                <a href="https://x.com/lofigirl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank" 
+                rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-square-twitter"></i></a>
+            </li>
+        </ul>
+    
+   
+</footer>
+ 
+</body>
+<!-- Font Awesome kit-->
+ <script src="https://kit.fontawesome.com/eb30829fa2.js" crossorigin="anonymous"></script>
+<!--Media Queries -->
+
+</html>
