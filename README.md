@@ -21,6 +21,9 @@ Credits:
 - [W3Schools](https://www.w3schools.com/)
 - wikipedia
 
+images:
+https://www.freepik.com/free-ai-image/beautiful-office-space-cartoon-style_94942448.htm#fromView=search&page=1&position=0&uuid=6cf1d0f5-1b72-43dd-ba22-284a44c553b5&query=lofi+chilled+calm+plain+wallpaper
+
 Validation:
 - [HTML Validator](https://validator.w3.org/)
 - CSS Validator 

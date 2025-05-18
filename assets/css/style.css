@@ -11,7 +11,8 @@ body{
     color: violet;
    
 }
-/*header*/
+
+/* Header style */
 header{
     background-color: black;
     padding: 0 1rem;
@@ -26,7 +27,7 @@ header{
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    text-align: center;
    
 }
 header a {
@@ -35,12 +36,11 @@ header a {
 }
 
 /* Navbar style with dropbox toggle */
-nav{
+.nav-toggle{
     position:absolute;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-   
     top: 100%;
 
 }
