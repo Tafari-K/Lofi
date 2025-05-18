@@ -1,3 +1,6 @@
+/* Google Fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+
 body{
     background-image: url(/assets/images/lofi-background-image.webp);
     background-size: cover;
@@ -10,23 +13,44 @@ body{
 }
 /*header*/
 header{
-    background-color: blue;
-    padding:0% 40% 0% 0%;
-    text-align: justify;
-}
-#header{
+    background-color: rgb(255, 165, 0);
+    padding: 0 1rem;
     position: fixed;
-    
-}
-nav{
-    
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    font-family: monsterrat;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
-    text-align: center;
-    color: white;
-    background-color: black;
-  
+    justify-content: space-between;
+    align-items: baseline;
+   
+}
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Navbar style with dropbox toggle */
+nav{
+    position:absolute
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+   
+    top: 100%;
 
 }
+
+/*Nav toggle*/
+
+#nav-toggle:checked~nav{
+    display: block;
+}
+
 ul{
     list-style-type: none;
     
