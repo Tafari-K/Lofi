@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
 
 body{
-    background-image: url(/assets/images/lofi-background-image.webp);
+    background-image: url(/assets/images/beautiful-office-space-cartoon-style.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,7 +13,7 @@ body{
 }
 /*header*/
 header{
-    background-color: rgb(255, 165, 0);
+    background-color: black;
     padding: 0 1rem;
     position: fixed;
     top: 0;
@@ -51,6 +51,14 @@ nav{
     display: block;
 }
 
+#nav-toggle{
+    font-size: medium;
+}
+
+main{
+    flex: 1 0 auto;
+    margin-top: 80px;
+}
 ul{
     list-style-type: none;
     
