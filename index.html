@@ -56,24 +56,26 @@
 <!--Chill Zone (music videos) -->
 
 <section id="chillzone" class="chillzone">
-    <div id="gallery" class="gallery"
-    <h2>Chill Zone</h2>
-    <h3>Playlists for the Love of Lofi</h3>
-    <p>Welcome to "Chill Zone", where you can explore a curated selection of lofi tracks that embody the essence of chilled hip-hop jazz beats. 
-        Each track is carefully chosen to create a relaxing and immersive listening experience. Whether you're looking for background music for studying, 
-        working, or simply unwinding, the collection has something for everyone.</p>
-    <p>Feel free to browse through the tracks and discover the perfect soundscape to accompany your day.</p>
-    <p> Fun Fact the Longest Lofi Stream was over 20,843hours with 668 million views</p>
+    <div id="gallery" class="gallery">
+        <h2>Chill Zone</h2>
+        
+            <p>Welcome to "Chill Zone", where you can explore a curated selection of lofi tracks that embody the essence of chilled hip-hop jazz beats. 
+                Each track is carefully chosen to create a relaxing and immersive listening experience. Whether you're looking for background music for studying, 
+                working, or simply unwinding, the collection has something for everyone.</p>
+            <p>Feel free to browse through the tracks and discover the perfect soundscape to accompany your day.</p>
+            <p> Fun Fact the Longest Lofi Stream was over 20,843hours with 668 million views</p>
+    </div>
 </section>
 
 <!-- Youtube Videos--> 
 
 <section>
     <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=0rhJ50OL-13RyJRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/S_MOd40zlYU?si=qwdQ5Nz-ydTwAxwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Yd7vDterctQ?si=AJMBR_yGk9QbmitC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/9kzE8isXlQY?si=WXXaCFT-0q1wq8UR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Playlists for the Love of Lofi</h3>
+        <iframe src="https://www.youtube.com/embed/jfKfPfyJRdk?si=0rhJ50OL-13RyJRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/S_MOd40zlYU?si=qwdQ5Nz-ydTwAxwC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/Yd7vDterctQ?si=AJMBR_yGk9QbmitC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/9kzE8isXlQY?si=WXXaCFT-0q1wq8UR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </section>
 
@@ -81,16 +83,16 @@
  <section id="signup" class="signup">
   
     <div>
-        <form action="/action_page.php" method="post" autocomplete=on>
+        <form id="signup-form" action="https://formdump.codeinstitute.net" method="post" autocomplete=on>
             <label for="fname">First name:</label><br>
-            <input type="text" id="fname" placeholder="John"><br><br>
+            <input type="text" id="fname" name="fname" placeholder="First name" required><br><br>>
     
             <label for="lastname">Last Name:</label><br>
-            <input type="text" id="lastname" placeholder="Last name"><br><br>
+            <input type="text" id="lname" name="lname" placeholder="Last name" required><br><br>
     
-            <label for="email">Email<br>
-            <input type="text"id="email" placeholder="Email"><br><br>
-            <input type="submit" value="Lets Get Chillin'"></label>
+            <label for="email">Email</label><br>
+            <input type="email" id="email" name="email" placeholder="Email" required><br><br>
+            <button type="submit" class="btn">Lets Get Chilln'</button>
         </form> 
     </div>
 </section>
@@ -98,13 +100,16 @@
 
 <!-- Social Media -->
  <footer>
-    <div class="social-media">
-        <h2>Follow Us</h2>
-        <p>Stay connected to the Lofi movement.</p>
         <ul>
-            <li><a href="https://www.instagram.com/lofi/" target="_blank">Instagram</a></li>
-            <li><a href="https://www.facebook.com/lofi/" target="_blank">Facebook</a></li>
-            <li><a href="https://twitter.com/lofi/" target="_blank">Twitter</a></li>
+            <li>
+                <a href="https://www.instagram.com/lofigirl/?hl=en" target="_blank" rel="noopener"
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a></li>
+
+            <li>
+                <a href="https://www.facebook.com/lofi/" target="_blank">Facebook</a></li>
+
+            <li>
+                <a href="https://twitter.com/lofi/" target="_blank">Twitter</a></li>
         </ul>
     </div>
    
