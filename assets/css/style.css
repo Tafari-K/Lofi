@@ -44,6 +44,18 @@ nav ul {
     align-items: center;
 }
 
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    color: #ffd6ff;
+}
+
+
 main{
     padding-top: 140px;
 }
