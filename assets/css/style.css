@@ -23,6 +23,15 @@ html{
  header a:hover {
       color: #ffd6ff;
     }
+
+/*navigation bar*/
+nav {
+    position: absolute;
+    width: 100%;
+    
+}
+
+
 /* Section Styling*/
 .about {
       padding: 120px 20px;
