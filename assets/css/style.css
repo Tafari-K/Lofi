@@ -79,7 +79,19 @@ nav {
       backdrop-filter: blur(5px);
       color: black;
     }
-
+/* Footer style */
+ footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background-color: rgba(50, 0, 100, 0.8);
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      z-index: 1000;
+    }
 
 /* Media query: larger or landscape phones (576px and up) */
 @media screen and (min-width: 576px){ 
