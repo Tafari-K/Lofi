@@ -14,29 +14,21 @@ body{
 }
 
 /* Header style */
+nav {
+      padding: 100px 20px;
+      min-height: 10vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      border-radius: 40px;
+      margin: 60px 10px;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(5px);
+      color: black;
+      width: max-content;
+    }
 
-#nav-toggle:checked~nav{
-    display: block;
-}
-
-#nav-toggle{
-    font-size: medium;
-}
-
-main{
-    flex: 1 0 auto;
-    margin-top: 80px;
-}
-ul{
-    list-style-type: none;
-    
-}
-.about{
-    background-color: black;
-    color: white;
-    padding: 0% 40% 0% 0%;
-    
-}
 
 
 /* Section Styling*/
