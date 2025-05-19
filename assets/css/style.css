@@ -28,7 +28,7 @@ html{
 nav {
     position: absolute;
     width: 100%;
-    
+
 }
 
 
@@ -93,11 +93,14 @@ nav {
       left: 0;
       width: 100%;
       background-color: rgba(50, 0, 100, 0.8);
-      padding: 20px;
+      padding-left: 20px;
       display: flex;
       justify-content: center;
-      gap: 30px;
+      gap: 1rem;
       z-index: 1000;
+      list-style: none;
+
+     
     }
       footer a {
       color: #fff;
