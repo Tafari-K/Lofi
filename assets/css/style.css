@@ -153,11 +153,30 @@ main{
     }
 }
 
-/* Media query: tablets (768px and up) */
+/* Media query: tablets (max-width: 768px ) */
 @media screen and (min-width: 768px) {
-    nav{
+    .burger {
         display: block;
-        position:relative;
-        width: fit-content;
+        position: absolute;
+        top: 80px;
+        right: 20px;
+        z-index: 1001;
     }
+    nav {
+        position: static;
+    }
+
+    nav ul {
+        flex-direction: column;
+        display: none;
+        background-color: rgba(0, 0, 0, 0.9);
+        padding: 1rem;
+        position: absolute;
+        top: 100%;
+        text-align: center;
+    }
+    nav ul.show {
+        display: flex;
+    }
+
 }
