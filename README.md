@@ -2,11 +2,27 @@
 
 ## Features
 
-- 3 page website dedcite to Lofi music
+- 3 page website dedicated to Lofi music
 - Information on the background of Lofi 
-- Audio and Video Player with controls
+- Audio and Video Player with accessible controls
 - Newsletter signup for fans and followers
-- Responsive deisign for all devices
+- Responsive design for all devices and users
+
+## Accessibility
+- All interactive elemetns are keyboard accessible
+- ARIA labels are used for better screen reader support
+- The site uses semantic HTML5 structure (header, nav, main, footer)
+- Form fields are correctly used with required attributes
+- Youtube videos include a title and aria labels attributes
+- Responsive design ensures usability across devices and orientations
+- Navigaation is clear and consistent
+
+## How to view
+1. Clone the repository to your local machine using `git clone
+2. Open the `index.html` file in your web browser
+3. Navigate through the pages using the links in the navigation bar
+4. Use the audio and video players to listen to Lofi music
+
 
 
 Built with:
@@ -19,11 +35,14 @@ Credits:
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [W3Schools](https://www.w3schools.com/)
-- wikipedia
+- [Wikipedia] (https://en.wikipedia.org/wiki/Lofi_hip_hop)
 
-images:
+
+## Image Credit
+
+Images:
 https://www.freepik.com/free-ai-image/beautiful-office-space-cartoon-style_94942448.htm#fromView=search&page=1&position=0&uuid=6cf1d0f5-1b72-43dd-ba22-284a44c553b5&query=lofi+chilled+calm+plain+wallpaper
 
 Validation:
 - [HTML Validator](https://validator.w3.org/)
-- CSS Validator 
+- [CSS Validator] (https://jigsaw.w3.org/css-validator/)
