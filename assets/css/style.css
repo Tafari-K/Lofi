@@ -26,8 +26,22 @@ html{
 
 /*navigation bar*/
 nav {
-    position: absolute;
+    position: fixed;
+    top: 80px;
     width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0 2 rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 
