@@ -44,6 +44,10 @@ nav ul {
     align-items: center;
 }
 
+main{
+    padding-top: 140px;
+}
+
 
 /* Section Styling*/
 .about {
