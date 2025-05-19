@@ -189,6 +189,10 @@ main{
 
 /* Media query: phones and landscape phones (min:width 480px) */
 @media screen and (max-width: 480px){ 
+    main {
+        padding-top: 140px;
+    }
+
     body {
         font-size: 14px;
 
@@ -203,6 +207,7 @@ main{
         font-size: 1.5rem;
 
     }
+}
 
 @media  screen and (min-width: 481px) and (max-width: 767px) {
     body {
