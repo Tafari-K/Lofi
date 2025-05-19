@@ -60,6 +60,7 @@ html{
       height: 100%;
       border: none; 
       border-radius: 15px;
+      box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);
     }
 
 .signup{
@@ -74,6 +75,7 @@ html{
       background: rgba(255, 255, 255, 0.1);
       backdrop-filter: blur(5px);
       color: black;
+      
     }
 /* Footer style */
  footer {
