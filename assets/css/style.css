@@ -58,12 +58,21 @@ nav a:hover {
 }
 
 /* burger icon*/
+.burger-toggle {
+    display: none;
+}
+
 .burger {
     display: none;
     background: none;
     font-size: 2rem;
+    position: absolute;
     color: white;
     cursor: pointer;
+    top: 80px;
+    right: 20px;
+    cursor: pointer;
+    z-index: 1001;
 }
 
 main{
