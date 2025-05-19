@@ -191,6 +191,10 @@ main{
 /* Media query: tablets (max-width: 768px ) */
 
 @media screen and (max-width: 768px) {
+    nav {
+        justify-content: flex-start;
+    }
+
     .burger {
         display: block;
         position: absolute;
@@ -198,9 +202,7 @@ main{
         right: 20px;
         z-index: 1001;
     }
-    nav {
-        position: static;
-    }
+   
 
     nav ul {
         flex-direction: column;
@@ -214,7 +216,13 @@ main{
     nav ul.show {
         display: flex;
     }
+
+    .burger-toggle:checked ~ nav ul {
+    display: flex;
+  }
+    
 }
+
     @media screen and (min-width: 1200px) {
         body {
             font-size: 18px;
