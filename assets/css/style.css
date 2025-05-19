@@ -38,7 +38,7 @@ html{
 /*navigation bar*/
 nav {
     position: fixed;
-    top: 80px;
+    top: 120px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     z-index: 999;
@@ -80,7 +80,7 @@ nav a:hover {
     position: absolute;
     color: white;
     cursor: pointer;
-    top: 80px;
+    top: 120px;
     right: 20px;
     cursor: pointer;
     z-index: 1001;
