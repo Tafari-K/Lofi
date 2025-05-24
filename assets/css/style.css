@@ -168,6 +168,29 @@ main{
       color: black;
       
     }
+
+/* Scrolling button */
+.scroll-button {
+    background: linear-gradient(135deg, #ffb3ec, #cdb4db);
+    color: #3c1053;
+    border: none;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 30px;
+    box-shadow: 0 4px 15px rgba(255, 179, 236, 0.4);
+}
+.scroll-button:hover {
+    background: linear-gradient(135deg, #ffd6ff, #e0bbff);
+    color: #6a0572;
+    transform: scale(1.05);
+    box-shadow: 0 6px 20px rgba(255, 179, 236, 0.6);
+}
+
+
+
 /* Footer style */
  footer {
       position: fixed;
