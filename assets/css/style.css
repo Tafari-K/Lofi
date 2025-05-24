@@ -140,15 +140,10 @@ main{
   border: 4px solid #ffd6ff;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
   margin: 20px auto;
-  display: block;
+
 }
 
-.hero-icons {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-}
+
 
 
 .chillzone {
