@@ -205,6 +205,13 @@ main{
       z-index: 1000;
     }
 
+    
+footer a:hover {
+    color: #ffd6ff;
+    transform: scale(1.1);
+}
+
+
 #social-networks{
     list-style: none;
     display: flex;
