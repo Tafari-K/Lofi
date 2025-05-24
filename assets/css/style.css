@@ -449,7 +449,25 @@ form button {
     nav ul li {
         width: 100%;
     }
-}/* Media query: desktops and larger screens (min-width: 1200px) */
+
+
+/* Media query for screens min width 768px */
+@media screen and (min-width: 768px){
+  nav.nav-stick {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+  }
+
+
+
+}
+/* Media query: desktops and larger screens (min-width: 1200px) */
 
 @media screen and (min-width: 1200px) {
         body {
