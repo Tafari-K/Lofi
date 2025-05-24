@@ -234,6 +234,16 @@ form button {
   backdrop-filter: blur(10px);
 }
 
+.btn {
+  display: inline-block;
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background: #3c1053;
+  color: white;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
 
 /* Scrolling button */
 .scroll-button {
