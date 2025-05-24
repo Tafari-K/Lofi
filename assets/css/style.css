@@ -216,6 +216,7 @@ form button {
 
 
 
+
 /* Scrolling button */
 .scroll-button {
     background: linear-gradient(135deg, #ffb3ec, #cdb4db);
@@ -328,6 +329,15 @@ form button {
         font-size: 15px;
         
     }
+
+    form {
+    padding: 1.5rem;
+    font-size: 0.95rem;
+  }
+
+  form button {
+    font-size: 1rem;
+  }
 }
 
 /* Media query: tablets (max-width: 768px ) */
