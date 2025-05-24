@@ -130,6 +130,19 @@ main{
     }
 
 
+    /*images within about section*/
+.hero-image {
+    width: 100%;
+    height: 200%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    display: block;
+    margin:20px auto;
+}
+
+
 
 .chillzone {
       padding: 100px 20px;
