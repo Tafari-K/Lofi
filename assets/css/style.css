@@ -215,7 +215,17 @@ form button {
 }
 
 
-
+/* Thankyou page*/
+.thank-you-page {
+  background: url('/assets/images/beautiful-office-space-cartoon-style.jpg') center/cover no-repeat;
+  color: white;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Oswald', sans-serif;
+}
 
 /* Scrolling button */
 .scroll-button {
