@@ -81,11 +81,11 @@ nav a:hover {
 
 /* burger icon*/
 .burger-toggle {
-  display: none; /* hides the checkbox */
+  display: none; 
 }
 
 .burger {
-  display: none; /* hidden by default */
+  display: none; 
   background: none;
   font-size: 2rem;
   color: white;
@@ -93,7 +93,7 @@ nav a:hover {
   z-index: 1001;
   position: sticky;
   top: 0;
-  right: 20px;
+  right: 10px;
 }
 
 main{
@@ -376,6 +376,8 @@ form button {
     width: 100%;
     box-sizing: border-box;
     gap: 1rem;
+    align-items: center;
+    justify-content: center;
   }
 
   .burger-toggle:checked ~ ul {
