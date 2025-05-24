@@ -14,7 +14,6 @@ body{
     color: #3c1053;
     font-family: Montserrat, sans-serif;
    
-}
 
 html{
     scroll-behavior: smooth;
@@ -281,7 +280,7 @@ form button {
     max-width: 300px;       
     margin-top: 1rem;
     align-self: center;   
-
+}
 
 
 /*.scroll-button {
