@@ -227,6 +227,14 @@ form button {
   font-family: 'Oswald', sans-serif;
 }
 
+.landingpage {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 3rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+}
+
+
 /* Scrolling button */
 .scroll-button {
     background: linear-gradient(135deg, #ffb3ec, #cdb4db);
