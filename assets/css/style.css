@@ -132,8 +132,9 @@ main{
 
     /*images within about section*/
 .hero-image {
-  width: 100%;
-  max-width: 120px;           /* ↓ Reduce from 200px to something smaller */
+  width: 20vw;
+  max-width: 200px; 
+  min-width: 120px;
   aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
@@ -445,10 +446,9 @@ form button {
     nav ul li {
         width: 100%;
     }
-}
+}/* Media query: desktops and larger screens (min-width: 1200px) */
 
-
-    @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
         body {
             font-size: 18px;
 
@@ -456,4 +456,18 @@ form button {
         nav ul {
             gap: 3rem;
         }
+    }
+
+    @media screen and (min-width: 1600px) {
+        body {
+            font-size: 20px;
+        }
+        nav ul {
+            gap: 4rem;
+        }
+
+        .hero-image {
+            width: 180px;;
+        }
+        
     }
