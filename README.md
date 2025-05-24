@@ -36,13 +36,15 @@ Credits:
 - [Font Awesome](https://fontawesome.com/)
 - [W3Schools](https://www.w3schools.com/)
 - [Wikipedia] (https://en.wikipedia.org/wiki/Lofi_hip_hop)
-
+- [YouTube](https://www.youtube.com/)
+- [Freepik](https://www.freepik.com/)
+- [chatgpt](https://chat.openai.com/)
+- [favicon.io](https://favicon.io/)
 
 ## Image Credit
 
-Images:
-https://www.freepik.com/free-ai-image/beautiful-office-space-cartoon-style_94942448.htm#fromView=search&page=1&position=0&uuid=6cf1d0f5-1b72-43dd-ba22-284a44c553b5&query=lofi+chilled+calm+plain+wallpaper
-
+Images
+background image: [freepik](https://www.freepik.com/free-ai-image/beautiful-office-space-cartoon-style_94942448.htm)
 Validation:
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator] (https://jigsaw.w3.org/css-validator/)
