@@ -36,13 +36,22 @@ html{
     }
 
 /*navigation bar*/
-nav {
+/* nav {
     position: fixed;
     top: 120px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     z-index: 999;
     display: flex;
+    justify-content: center;
+} */
+
+.nav-stick {
+    display: flex;
+    top: 0px;
+    left: 0px;
+    position: sticky;
+    z-index: 999999;
     justify-content: center;
 }
 
@@ -77,13 +86,12 @@ nav a:hover {
     display: none;
     background: none;
     font-size: 2rem;
-    position: absolute;
     color: white;
     cursor: pointer;
-    top: 120px;
-    right: 20px;
-    cursor: pointer;
     z-index: 1001;
+    position: sticky;
+    top: 0;
+    right: 20px;
 }
 
 main{
@@ -219,37 +227,47 @@ main{
 /* Media query: tablets (max-width: 768px ) */
 
 @media screen and (max-width: 768px) {
-    nav {
-        justify-content: flex-start;
+    nav.nav-stick {
+        position: sticky;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: rgba(0,0,0,0.7);
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
     }
-
     .burger {
         display: block;
-        position: absolute;
-        top: 80px;
+        position: sticky;
+        top: 0;
         right: 20px;
+        margin-left: auto;
         z-index: 1001;
     }
-   
-
+    .burger-toggle:checked ~ ul {
+        display: flex;
+    }
     nav ul {
         flex-direction: column;
         display: none;
         background-color: rgba(0, 0, 0, 0.9);
         padding: 1rem;
         position: absolute;
+        gap: 1rem;
         top: 100%;
         text-align: center;
+        right: 0;
+        left: 0;
+        width: 100vw;
+        box-sizing: border-box;
     }
-    nav ul.show {
-        display: flex;
+    nav ul li {
+        width: 100%;
     }
-
-    .burger-toggle:checked ~ nav ul {
-    display: flex;
-  }
-    
 }
+
 
     @media screen and (min-width: 1200px) {
         body {
