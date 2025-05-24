@@ -110,6 +110,7 @@ main{
     color: black;
     font-size: 1.5rem;
     padding-top: 180px;
+    padding-bottom: 100px;
 }
 
 
@@ -126,6 +127,7 @@ main{
       background: rgba(255, 255, 255, 0.15);
       backdrop-filter: blur(5px);
       color: black;
+      padding-bottom: 100px;
     }
 
 
