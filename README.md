@@ -51,3 +51,6 @@ background image: [freepik](https://www.freepik.com/free-ai-image/beautiful-offi
 
 - [HTML Validator](https://validator.w3.org/)
 - [CSS Validator] (https://jigsaw.w3.org/css-validator/)
+
+#Wireframe
+- [balsamiq] 
