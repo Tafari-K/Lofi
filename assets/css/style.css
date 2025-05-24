@@ -202,6 +202,20 @@ form {
   margin: 1rem auto;
 }
 
+form input,
+form textarea,
+form button {
+  padding: 0.8rem 1rem;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-family: inherit;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+
 /* Scrolling button */
 .scroll-button {
     background: linear-gradient(135deg, #ffb3ec, #cdb4db);
