@@ -11,7 +11,7 @@ The site is include 3 sections:
 3. **Sign-up Section** - A contact form for users to sign up for a newsletter of the lastest playlists released within the Lofi community.
 
 
-![Am I Responsive Screenshot]()
+![Am I Responsive Screenshot](/documents/images/am-i-respsonive-report-1.png)
 
 ​
 ## Table of contents:
@@ -83,19 +83,13 @@ So that I can stay informed and connected to the lofi community.
 ​​
 #### **Wireframes:**
 
-Wireframes for each page were created using Balsamiq. This process provided a basic but clear outline of how each page would look as well as organising the content.
+Wireframes for each section were created using Balsamiq. This process provided a basic but clear outline of how each section would look as well as organising the content.
 
-* Home Section
-[Home Page Wireframe]()
+* Welcome Section
+[Desktop view Wireframe](/documents/wireframe-desktop.png)
 
-* About Section
-[Team Page Wireframe]()
+[Mobile view Wireframe](/documents/wireframe-mobile-device.png)
 
-* Music Section
-[Form Page Wireframe]()
-
-* Sign-up Section
-[Form Page Wireframe]()
 
 <br>​
 
@@ -105,7 +99,7 @@ I used online palette generator ColorSpace to generate the following:
 
 <br>
 
-![Colour Palette]()
+![Colour Palette](/documents/colour-palette.png)
 
 The colours used throught the site reflect the calm, nostalgic and mood associted with the genre of Lofi music. The colours are soft and non invasive, allwing the user to focus on the information and the music promoted on the site.
 
