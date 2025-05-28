@@ -12,6 +12,7 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
+/* Header */
 html {
   scroll-behavior: smooth;
 }
@@ -33,6 +34,7 @@ header a:hover {
   color: #ffd6ff;
 }
 
+/* Navigation */
 .nav-stick {
   display: flex;
   top: 0px;
@@ -64,6 +66,7 @@ nav a:hover {
   color: #ffd6ff;
 }
 
+/* Navigation for smaller screens */
 .burger-toggle {
   display: none;
 }
@@ -97,6 +100,7 @@ main {
   padding-bottom: 100px;
 }
 
+/* About section*/
 .about {
   padding: 120px 20px;
   min-height: 100vh;
@@ -109,7 +113,6 @@ main {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(5px);
   color: black;
-  padding-bottom: 100px;
 }
 
 .hero-image {
@@ -124,6 +127,7 @@ main {
   margin: 20px auto;
 }
 
+/* Chill Zone section */
 .chillzone {
   padding: 100px 20px;
   min-height: 100vh;
@@ -138,6 +142,7 @@ main {
   color: black;
 }
 
+/* iframe styling */
 iframe {
   width: 100%;
   height: 100%;
@@ -146,6 +151,8 @@ iframe {
   box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);
 }
 
+
+/* Sign up form */
 .signup {
   padding: 100px 20px;
   min-height: 100vh;
@@ -190,6 +197,8 @@ form button {
   box-sizing: border-box;
 }
 
+
+/* Thank you page */
 .thank-you-page {
   background: url('/assets/images/beautiful-office-space-cartoon-style.jpg') center/cover no-repeat;
   color: white;
@@ -208,6 +217,7 @@ form button {
   backdrop-filter: blur(10px);
 }
 
+/* Button styles */
 .btn {
   display: inline-block;
   margin-top: 2rem;
@@ -229,11 +239,10 @@ form button {
   letter-spacing: 1px;
   border-radius: 30px;
   box-shadow: 0 4px 15px rgba(255, 179, 236, 0.4);
-  width: 70%;
   max-width: 300px;
   margin-top: 1rem;
   align-self: center;
-  cursor: pointer;
+  cursor: pointer; 
 }
 
 .scroll-button:hover {
@@ -243,6 +252,7 @@ form button {
   box-shadow: 0 6px 20px rgba(255, 179, 236, 0.6);
 }
 
+/* Footer */
 footer {
   position: fixed;
   bottom: 0;
@@ -256,6 +266,7 @@ footer {
   z-index: 1000;
 }
 
+/* Social Networks */
 #social-networks {
   list-style: none;
   display: flex;
