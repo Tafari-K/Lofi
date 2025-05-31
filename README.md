@@ -11,7 +11,7 @@ The site is include 3 sections:
 3. **Sign-up Section** - A contact form for users to sign up for a newsletter of the lastest playlists released within the Lofi community.
 
 
-![Am I Responsive Screenshot](/documents/images/am-i-respsonive-report-1.png)
+![Am I Responsive Screenshot](/documents/am-i-responsive-report.png)
 
 ​
 ## Table of contents:
