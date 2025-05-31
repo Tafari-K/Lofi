@@ -228,11 +228,13 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 
 * **Site Page**
 
-![Screenshot of responsive site]()
+* ![Screenshot of responsive site](documents/homescreen-mobile.png)
+* ![Screenshot of responsive site](documents/homescreen-desktop.png)
 
 * **About Section**
 
-![Screenshot of responsive About section]()
+![Screenshot of responsive About section](documents/responsive-aboutsection-mobile.png)
+![Screenshot of responsive About section](documents/responsive-aboutsection.png)
 
 * **Contact form page**
 
@@ -261,8 +263,8 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 
 * HTML Validation using w3c validator - Each page passed validation
 
-* ![index.html](/documents/html-validation-before-amendments.png)
-* ![index.html](/documents/html-validation-after-amendments.png)
+* ![index.html](documents/html-validation-before-amendments.png)
+* ![index.html](documents/html-validation-after-amendments.png)
 
 * CSS Validation using w3c jigsaw - Each page passed validation
 
