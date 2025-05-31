@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
 
 body {
-  background-image: url(/assets/images/beautiful-office-space-cartoon-style.jpg);
+  background-image: url(assets/images/beautiful-office-space-cartoon-style.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -18,7 +18,7 @@ html {
 }
 
 #logo {
-  font-family: Oswald, sans-serif;
+  font-family: Montserrat, sans-serif;
   font-size: 4rem;
   color: #ffd6ff;
   text-shadow: 0 0 5px #ffb3ec, 0 0 10px #ff99cc, 0 0 20px #ff66cc;
