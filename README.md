@@ -133,9 +133,9 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 * Each navigation button has a hover effect to continues navigating down the one page scrolling site.
 
 
-![Screenshot of header]()
+![Screenshot of header](/documents/responsive-header-mobile-navigation.png)
 
-![Screenshot of responsive header]()
+![Screenshot of responsive header](/documents/responsive-header-largerscreen.png)
 
 
 #### **Footer:**
@@ -143,9 +143,9 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 * The footer contains social media link icons which take the user to the relevant social media page in a new tab.
 * The footer is responsive and the icons all shrink on smaller screens.
 
-![Screenshot of footer]()
+![Screenshot of footer](/documents/responsive-footer-mobile.png)
 
-![Screenshot of responsive footer]()
+![Screenshot of responsive footer](/documents/responsive-footer-largerscreen.png)
 ​
 
 ## **Features**
