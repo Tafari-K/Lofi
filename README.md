@@ -86,9 +86,9 @@ So that I can stay informed and connected to the lofi community.
 Wireframes for each section were created using Balsamiq. This process provided a basic but clear outline of how each section would look as well as organising the content.
 
 * Welcome Section
-[Desktop view Wireframe](/documents/wireframe-desktop.png)
+![Desktop view Wireframe](/documents/wireframe-desktop.png)
 
-[Mobile view Wireframe](/documents/wireframe-mobile-device.png)
+![Mobile view Wireframe](/documents/wireframe-mobile-device.png)
 
 
 <br>​
