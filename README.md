@@ -152,7 +152,7 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 ​
 #### **About Section** 
 
-![Screenshot of About Section]()
+![Screenshot of About Section](/documents/about-section.png)
 * Introduction to Lofi Music 
 A warm and informative welcome that explains the genre’s purpose: to help users relax, focus, and enhance creativity.
 * Historical Context
@@ -166,7 +166,8 @@ A scroll button allows users to transition fluidly to the Chill Zone section, ma
 
 #### **Chillsone Section** 
 
-![Screenshot of Chillzone Section]()
+![Screenshot of Chillzone Section](/documents/chillzone-section.png)
+![Screenshot of Chillzone Section](/documents/chillzone-section-continued.png)
 * Curated Lofi Music Playlists
 Embedded YouTube videos offer handpicked lofi tracks that users can play directly from the site. This provides instant, high-quality access to ambient music for studying, working, or relaxing.
 * Highlighting Influential Artists
@@ -186,7 +187,8 @@ A scroll button encourages users to move to the Sign-Up section, keeping them en
 
 #### **Sign up Section**
 
-![Screenshot of Sign up form]()
+![Screenshot of Sign up form](/documents/signup-section.png)
+![Screenshot of Sign up form](/documents/signup-section-continued.png)
 * User-Friendly Form Fields
 Includes clearly labeled input fields for first name, last name, and email address—making it simple for users to join the Lofi community.
 * Accessible and Responsive Design
