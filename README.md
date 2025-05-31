@@ -238,11 +238,13 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 
 * **Contact form page**
 
-![Screenshot of responsive Chillzone section]()
+![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-mobile.png)
+![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-desktop.png)
 
 * **Contact form page**
 
-![Screenshot of responsive Sign up Section]()
+![Screenshot of responsive Sign up Section](/documents/responsive-signup-mobile.png)
+![Screenshot of responsive Sign up Section](/documents/responsive-signup-desktop.png)
 ​
 
 **Functionality**
