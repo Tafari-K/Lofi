@@ -1,15 +1,4 @@
 # **Lofi Music Site**
-## **Site Overview**
-
-Lofi Music is a genre of music that has become increasing popluar of the last decade. The genre of music is often used as a background music for all settings, whether it be studing, working or just relaxing. The site is designed to be simple and easy to navigate with focus on the music and the community that surrounds it.
-
-The site is designed around the idea of what the genre Lofi is, by using palettible colours and images that are associated with the genre. No invasive animations or pop-ups, low stimulation and a playlist of various focus music from youtube.
-
-The site is include 3 sections:
-1. **About Section** - A brief history of the genre, its evolution and its origins.
-2. **Chillzone Section** -Which is made of various Lofi playlists from youtube, with a video player.
-3. **Sign-up Section** - A contact form for users to sign up for a newsletter of the lastest playlists released within the Lofi community.
-
 
 ![Am I Responsive Screenshot](/documents/am-i-responsive-report.png)
 
@@ -23,16 +12,14 @@ The site is include 3 sections:
     * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
     * [***Typography***](#typography)
-1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
-    * [***Header Element***](#header-element)
+1. [**Current Features Common to all sections**](#current-features-common-to-all-sections)
     * [***Other Features***](#features)
     * [**Footer**](#footer)
-1. [**Individual Page Content features**](#individual-page-content-features)
-    * [**About Page Content**](#about-page-content)
-    * [**Teachings Page Content**](#teachings-page-content)
-    * [**Community Page Content**](#community-page-content)
-    * [**Contact Page Content**](#contact-page-content)
-    * [**Form Feedback Page Content**](#form-feedback-page-content)
+1. [**Individual Page Content**](#content)
+    * [**About Section Content**](#about-section)
+    * [**Chillzone Section Content**](#Chillzone-section)
+    * [**Signup Section Content**](#Sign-up-section)
+    * [**Form Feedback Content**](#form-feedback-content)
 1. [**Future-Enhancements**](#future-enhancements)
 1. [**Testing Phase**](#testing-phase)
 1. [**Deployment**](#deployment)
@@ -42,6 +29,17 @@ The site is include 3 sections:
     * [**Content**](#content)
     * [**Media**](#media)
     * [**Honorable mentions**](#honorable-mentions)
+
+## **Site Overview**
+
+Lofi Music is a genre of music that has become increasing popluar of the last decade. The genre of music is often used as a background music for all settings, whether it be studing, working or just relaxing. The site is designed to be simple and easy to navigate with focus on the music and the community that surrounds it.
+
+The site is designed around the idea of what the genre Lofi is, by using palettible colours and images that are associated with the genre. No invasive animations or pop-ups, low stimulation and a playlist of various focus music from youtube.
+
+The site is include 3 sections:
+1. **About Section** - A brief history of the genre, its evolution and its origins.
+2. **Chillzone Section** -Which is made of various Lofi playlists from youtube, with a video player.
+3. **Sign-up Section** - A contact form for users to sign up for a newsletter of the lastest playlists released within the Lofi community.
 ​
 ## **Planning Stage**
 
@@ -86,6 +84,7 @@ So that I can stay informed and connected to the lofi community.
 Wireframes for each section were created using Balsamiq. This process provided a basic but clear outline of how each section would look as well as organising the content.
 
 * Welcome Section
+
 ![Desktop view Wireframe](/documents/wireframe-desktop.png)
 
 ![Mobile view Wireframe](/documents/wireframe-mobile-device.png)
@@ -95,7 +94,7 @@ Wireframes for each section were created using Balsamiq. This process provided a
 
 #### **Color Scheme:**
 ​
-I used online palette generator ColorSpace to generate the following:
+I mainly used google and online palette generators to get inspiration for the following:
 
 <br>
 
@@ -116,7 +115,7 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 
 ​<br>
 
-## **Current Features Common to all Pages**
+## **Current Features Common to all Sections**
 
 #### **Favicon**
 
@@ -148,7 +147,7 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 ![Screenshot of responsive footer](/documents/responsive-footer-largerscreen.png)
 ​
 
-## **Features**
+## **Content**
 ​
 #### **About Section** 
 
@@ -199,8 +198,18 @@ Uses soft pastel tones, rounded borders, and a background feature of the blurred
 A prominent and inviting submit button (“Let’s Get Chilln’”) encourages user interaction and adds a playful, genre-appropriate tone.
 * Privacy Reassurance
 Text included below the image reassures users that their information will not be shared, helping build trust and transparency.
+
+
+#### **Form Feedback Content**
+![Screenshot of Sign up form](/documents/form-validation-noentry.png)
+![Screenshot of Sign up form](/documents/form-validation-valid-email.png)
+![Screenshot of Sign up form](/documents/form-validation-successful-submission.png)
+
 * External Form Handling
 Utilizes formdump.codeinstitute.net for backend form handling which is an effective, lightweight solution for capturing and testing form submissions without building a custom backend.
+* Invalid form submission
+Form that have not been filled with correct data or no data at all can not be submitted
+
 ​
 ## **Future-Enhancements**
 ​
@@ -235,18 +244,18 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 
 * **About Section**
 
-* ![Screenshot of responsive About section](documents/responsive-aboutsection-mobile.png)
-* ![Screenshot of responsive About section](documents/responsive-aboutsection.png)
+![Screenshot of responsive About section](documents/responsive-aboutsection-mobile.png)
+![Screenshot of responsive About section](documents/responsive-aboutsection.png)
 
 * **Contact form page**
 
-* ![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-mobile.png)
-* ![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-desktop.png)
+![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-mobile.png)
+![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-desktop.png)
 
 * **Contact form page**
 
-* ![Screenshot of responsive Sign up Section](/documents/responsive-signup-mobile.png)
-* ![Screenshot of responsive Sign up Section](/documents/responsive-signup-desktop.png)
+![Screenshot of responsive Sign up Section](/documents/responsive-signup-mobile.png)
+![Screenshot of responsive Sign up Section](/documents/responsive-signup-desktop.png)
 ​
 
 **Functionality**
@@ -256,21 +265,18 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 * The social media links within the footer all work as expected on all pages, taking the user to the relevant link in a new tab. 
 * On the form on the sign up page does not allow user to submit a blank form, or a form with an invalid email address.
 * The form submits successfully when all required fields are filled in correctly.
-* I used *Lighthouse* to test each page. Results below:
+* I used *Lighthouse* to test the site. Results below:
 
-* [Overall Site](docs/images/home-lighthouse.png)
-
-* Each section of the site performs well with the following results:
-
+![Overall Site](/documents/am-i-responsive-report.png)
 ​
 **Validators**
 
-* HTML Validation using w3c validator - Each page passed validation
+* HTML Validation using w3c validator:
 
 * ![index.html](documents/html-validation-before-amendments.png)
 * ![index.html](documents/html-validation-after-amendments.png)
 
-* CSS Validation using w3c jigsaw - Each page passed validation
+* CSS Validation using w3c jigsaw:
 
 * ![style.css](documents/css-validation.png)
 
@@ -381,5 +387,5 @@ The following image were sourced from Wikipedia and are free to use:
 * 
 
 ### **Honorable mentions**
-* A special thanks to my mentor Richard for his feedback and encouragement along the different stages of creating this page.
+* A huge thanks to my mentor Richard for his feedback and encouragement along the different stages of creating this page.
 * Thanks to Code Institute for providing the resources and support to complete this project.
