@@ -266,7 +266,7 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 
 * CSS Validation using w3c jigsaw - Each page passed validation
 
-* [style.css](docs/images/home-css-check.png)
+* ![style.css](documents/css-validation.png)
 
 
 ​
