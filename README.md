@@ -325,7 +325,7 @@ I deployed the page on GitHub pages via the following procedure: -
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-The live site can be found can be found at the following URL - 
+The live site can be found can be found at the following URL - (https://tafari-k.github.io/Lofi/)
 
 ***
 ​
