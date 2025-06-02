@@ -326,6 +326,12 @@ footer a:hover {
   nav ul li {
     width: 100%;
   }
+
+  #social-networks{
+    padding-left: 0;
+    display:flex;
+    gap: 2rem;
+  }
 }
 
 @media screen and (min-width: 1024px) {
