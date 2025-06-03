@@ -132,7 +132,7 @@ The colours used throught the site reflect the calm, nostalgic and mood associte
 * The favicon is used to represent the the social media links in the footer of the page.
 * The intention is to enhance the user experience of navigating to other platform withouth have to leave the site.
 
-![Screenshot of favicon](/documents/responsive-footer-largerscreen.png)
+![Screenshot of favicon](assets/images/favicon-icons.png)
 ​
 #### **Navigation Bar:**
 ​
