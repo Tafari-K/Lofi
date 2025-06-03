@@ -278,7 +278,7 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 * I used *Lighthouse* to test the site. Results below:
 
 - User Stories Testing
-## 🧪 User Testing Results
+## User Testing Results
 
 | User Story             | Test | Actual Outcome |
 |----------------------|--------------|-------------|
