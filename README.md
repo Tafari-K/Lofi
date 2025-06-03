@@ -96,6 +96,16 @@ Wireframes for each section were created using Balsamiq. This process provided a
 ​
 I mainly used google and online palette generators to get inspiration for the following:
 
+I ended up choose these hex colours
+* #3c1053; #cdb4db,  #320064cc
+* #ffd6ff, #ff99cc, #ffb3ec, #ffb3ec66,  #ff66cc, #ffb3ec99
+* #ffffff,
+* #000000, #00000099
+* #c8ffc826
+* #c8c8ff26
+* #ffffff26
+* #00000026
+
 <br>
 
 ![Colour Palette](/documents/colour-palette.png)
