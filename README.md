@@ -277,7 +277,22 @@ Reviewed applied breakpoints (768px, 1024px, 1600px) and confirmed expected font
 * The form submits successfully when all required fields are filled in correctly.
 * I used *Lighthouse* to test the site. Results below:
 
-![Overall Site](/documents/am-i-responsive-report.png)
+- User Stories Testing
+## 🧪 User Testing Results
+
+| User Story             | Test | Actual Outcome |
+|----------------------|--------------|-------------|
+|  As a user, I want to browse curated Lofi playlists (e.g., study, chill, sleep), so I can find the right vibe easily  | Implent iframes with embedded Youtube playlist of Lofi Music    |   Accessible Videos  |
+| As a casual visitor, I want to discover what lofi music is and learn about its background,
+So that I can understand the genre and appreciate the music while I listen.      | Create a about section with information about artist and the background the genre     | Using the navigation buttons users can go to the about section whilst playing the youtube playlist uninterrupted    |
+| As a user, I want to listen to Lofi music without distractions, so I can focus on my tasks.  | Using the navgation buttons users can go to the 'chill zone' section and play the youtube videos     | Playlist videos uninterrupted     |
+| As a user, I want to navigate the page to find what I require quickly and easily. | Using the navigation buttons users can go to the area of sites they are looking      | Navigation is accessible on all device sizes    |
+| As a student or remote worker, I want to access relaxing lofi music playlists, so that I can stay focused and productive while working or studying.| Users can access music playlists without having being taken to another site    | Music loads and displays as should    |
+| As a lofi music enthusiast, I want to sign up to receive the latest updates and playlists,
+So that I can stay informed and connected to the lofi community. | Form can be access and submitted without void data entry, form is submitted and posted with confirmation     | Form validation as expected no void data can be posted   |
+| As a mobile user,I want to navigate the site easily with responsive design and a burger menu, So that I can enjoy the full experience from any device.| Resizing the site using Devtools for device size responsiveness     | Burger icon is present on smaller screens, Navigation bar sticks to top of page once scrolled    |
+|  As a visually impaired user,I want to navigate the website using screen readers and keyboard shortcuts,So that I can fully access all content and features without needing a mouse.| Test labels are in approprite places by running a screen reader over the site     |  Screen reader read page as it should    |
+
 ​
 **Validators**
 
