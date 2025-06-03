@@ -1,6 +1,6 @@
 # **Lofi Music Site**
 
-![Am I Responsive Screenshot](/documents/am-i-responsive-report.png)
+![Am I Responsive Screenshot](/documents/am-i-responsive.png)
 
 ​
 ## Table of contents:
