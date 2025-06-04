@@ -277,11 +277,7 @@ Include a contact or feedback form so users can share suggestions, report issues
 * The form submits successfully when all required fields are filled in correctly.
 * I used *Lighthouse* to test the site. Results below:
 
-<<<<<<< HEAD
 ![Screenshot of lighthouse report](/documents/lighthouse-performance-report.png)
-=======
-![Screenshot of lighthouse report]()
->>>>>>> a0631db258ffbd824b12ea36fc37050b9932ce54
 
 
 ## User Testing Results
