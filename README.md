@@ -85,9 +85,9 @@ Wireframes for each section were created using Balsamiq. This process provided a
 
 * Welcome Section
 
-![Desktop view Wireframe](/documents/wireframe-desktop.png)
+![Desktop view Wireframe](/documents/wireframe-largerscreen.png)
 
-![Mobile view Wireframe](/documents/wireframe-mobile-device.png)
+![Mobile view Wireframe](/documents/wireframe-mobilescreen.png)
 
 
 <br>​
