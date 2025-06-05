@@ -347,7 +347,10 @@ The following bugs were also identified during user testing:
 
 ## **Unfixed Bugs**
 
-* There are no known unfixed bugs at this stage but this section has been added to catalogue instances of future bugs.
+* There are a few issues with the site within Performance. 
+    - Images have been converted from jpeg to webp to try improve stats
+    - Youtube videos appear to delay the site loading process and affecting the overall performance within the Lighthouse report
+
 
 
 ## **Deployment**
@@ -414,8 +417,4 @@ The following images were sourced from Wikipedia and are free to use:
 
 ### **Honorable mentions**
 * A huge thanks to my mentor Richard for his feedback and encouragement along the different stages of creating this page.
-<<<<<<< HEAD
 * Thanks to Code Institute and Rachel for providing the resources and support to complete this project.
-=======
-* Thanks to Code Institute and Rachel for providing the resources and support to complete this project.
->>>>>>> a0631db258ffbd824b12ea36fc37050b9932ce54
