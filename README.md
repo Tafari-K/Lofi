@@ -397,6 +397,8 @@ I used the following technologies for this project:
 - W3C Validator for HTML and CSS validation
 - Balsamiq for wireframing
 - Favicon.io for creating the favicon
+-lighthouse for performance testing
+- Wave for accessibility testing
 
 <br>
 
