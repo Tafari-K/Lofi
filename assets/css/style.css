@@ -68,7 +68,7 @@ nav a:hover {
   color: #ffd6ff;
 }
 
-/* Navigation for smaller screens */
+
 .burger-toggle {
   display: none;
 }
@@ -144,7 +144,7 @@ main {
   color: black;
 }
 
-/* iframe styling */
+
 iframe {
   width: 100%;
   height: 100%;
@@ -154,7 +154,7 @@ iframe {
 }
 
 
-/* Sign up form */
+/* Form */
 .signup {
   padding: 100px 20px;
   min-height: 100vh;
@@ -197,26 +197,6 @@ form button {
   font-family: inherit;
   width: 100%;
   box-sizing: border-box;
-}
-
-
-/* Thank you page */
-.thank-you-page {
-  background: url('/assets/images/beautiful-office-space-cartoon-style.jpg') center/cover no-repeat;
-  color: white;
-  text-align: center;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Oswald', sans-serif;
-}
-
-.landingpage {
-  background-color: #00000099;
-  padding: 3rem;
-  border-radius: 20px;
-  backdrop-filter: blur(10px);
 }
 
 /* Button styles */
@@ -267,7 +247,6 @@ footer {
   z-index: 1000;
 }
 
-/* Social Networks */
 #social-networks {
   list-style: none;
   display: flex;
