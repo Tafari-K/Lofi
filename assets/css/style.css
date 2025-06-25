@@ -43,6 +43,7 @@ header a:hover {
   position: sticky;
   z-index: 999999;
   justify-content: center;
+  background-color: rgba(0, 0, 0, 0.887);
 }
 
 nav ul {
@@ -230,7 +231,7 @@ form button {
 }
 
 .scroll-button {
-  background: linear-gradient(135deg, #ffb3ec, #cdb4db);
+  background: rgba(128, 0, 128, 0.591);
   color: #3c1053;
   border: none;
   padding: 12px 24px;
@@ -247,7 +248,7 @@ form button {
 }
 
 .scroll-button:hover {
-  background: linear-gradient(135deg, #ffd6ff, #e0bbff);
+  background: rgb(255, 182, 193)
   color: #6a0572;
   transform: scale(1.05);
   box-shadow: 0 6px 20px #ffb3ec99;
