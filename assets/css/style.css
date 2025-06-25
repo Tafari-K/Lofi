@@ -111,7 +111,7 @@ main {
   flex-direction: column;
   border-radius: 40px;
   margin: 60px 10px;
-  background: rgba(240, 4, 217, 0.491);
+  background: rgba(240, 4, 216, 0.263);
   backdrop-filter: blur(50px);
   color: black;
 }
@@ -163,7 +163,7 @@ iframe {
   flex-direction: column;
   border-radius: 40px;
   margin: 60px 10px;
-  background: rgba(253, 3, 249, 0.561);
+  background: rgba(253, 3, 249, 0.263);
   backdrop-filter: blur(50px);
   cursor: pointer;
   color: black;
