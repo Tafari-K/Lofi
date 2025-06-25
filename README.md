@@ -1,6 +1,6 @@
 # **Lofi Music Site**
 
-![Am I Responsive Screenshot](/documents/am-i-responsive.png)
+![Am I Responsive Screenshot](assets/documents/readme-screenshots/am-i-responsive.png)
 
 ​
 ## Table of contents:
@@ -101,11 +101,11 @@ The wireframes differ from the finished site as I found it much more captivating
 
 * Desktop
 
-![Desktop view Wireframe](/documents/wireframe-largerscreen.png)
+![Desktop view Wireframe](assets/documents/readme-screenshots/wireframe-largerscreen.png)
 
 * Mobile
-  
-![Mobile view Wireframe](/documents/wireframe-mobilescreen.png)
+
+![Mobile view Wireframe](assets/documents/readme-screenshots/wireframe-mobilescreen.png)
 
 
 <br>​
@@ -125,7 +125,7 @@ I mainly carried out research using google, freepiks and online palette generato
 
 <br>
 
-![Colour Palette](/documents/colour-palette.png)
+![Colour Palette](assets/documents/readme-screenshots/colour-palette.png)
 
 The colours used throughout the site reflect the calm, nostalgic and mood associated with the genre of Lofi music. The colours are soft and non invasive, allowing the user to focus on the information and the music promoted on the site.
 
@@ -151,6 +151,7 @@ The colours used throughout the site reflect the calm, nostalgic and mood associ
 
 ![Screenshot of favicon](assets/images/favicon-icons.png)
 ​
+
 #### **Navigation Bar:**
 ​
 * The navigation on smaller devices, can be found in the top right side of the header which gives the user an easily navigation experience to various sections of the site.
@@ -159,9 +160,9 @@ The colours used throughout the site reflect the calm, nostalgic and mood associ
 * Each navigation scroll button has a hover effect to continue navigating down the one page scrolling site.
 
 
-![Screenshot of header](/documents/responsive-header-mobile-navigation.png)
+![Screenshot of header](assets/documents/readme-screenshots/responsive-header-mobile-navigation.png)
 
-![Screenshot of responsive header](/documents/responsive-header-largerscreen.png)
+![Screenshot of responsive header](assets/documents/readme-screenshots/responsive-header-largerscreen.png)
 
 
 #### **Footer:**
@@ -169,16 +170,16 @@ The colours used throughout the site reflect the calm, nostalgic and mood associ
 * The footer contains social media link icons, which take the user to the relevant social media page in a new tab.
 * The footer is responsive and the icons center on smaller screens.
 
-![Screenshot of footer](/documents/responsive-footer-mobile.png)
+![Screenshot of footer](assets/documents/readme-screenshots/responsive-footer-mobile.png)
 
-![Screenshot of responsive footer](/documents/responsive-footer-largerscreen.png)
+![Screenshot of responsive footer](assets/documents/readme-screenshots/responsive-footer-largerscreen.png)
 ​
 
 ## **Content**
 ​
 #### **About Section** 
 
-![Screenshot of About Section](/documents/about-section.png)
+![Screenshot of About Section](assets/documents/readme-screenshots/about-section.png)
 * Introduction to Lofi Music 
 A warm and informative welcome that explains the genre’s purpose, to help users relax, focus, and enhance creativity.
 * Historical Context
@@ -192,8 +193,8 @@ A scroll button allows users to transition fluidly to the Chill Zone section, ma
 
 #### **Chillsone Section** 
 
-![Screenshot of Chillzone Section](/documents/chillzone-section.png)
-![Screenshot of Chillzone Section](/documents/chillzone-section-continued.png)
+![Screenshot of Chillzone Section](assets/documents/readme-screenshots/chillzone-section.png)
+![Screenshot of Chillzone Section](assets/documents/readme-screenshots/chillzone-section-continued.png)
 * Curated Lofi Music Playlists
 Embedded YouTube videos offer handpicked lofi tracks that users can play directly from the site. This provides instant, high-quality access to ambient music for studying, working, or relaxing.
 * Highlighting Influential Artists
@@ -213,8 +214,8 @@ A scroll button encourages users to move to the Sign-Up section, keeping them en
 
 #### **Sign up Section**
 
-![Screenshot of Sign up form](/documents/signup-section.png)
-![Screenshot of Sign up form](/documents/signup-section-continued.png)
+![Screenshot of Sign up form](/assets/documents/readme-screenshots/signup-section.png)
+![Screenshot of Sign up form](/assets/documents/readme-screenshots/signup-section-continued.png)
 * User-Friendly Form Fields
 Includes clearly labeled input fields for first name, last name, and email address—making it simple for users to join the Lofi community.
 * Accessible and Responsive Design
@@ -230,9 +231,9 @@ Text included below the image reassures users that their information will not be
 
 
 #### **Form Feedback Content**
-![Screenshot of Sign up form](/documents/form-validation-noentry.png)
-![Screenshot of Sign up form](/documents/form-validation-valid-email.png)
-![Screenshot of Sign up form](/documents/form-validation-successful-submission.png)
+![Screenshot of Sign up form](/assets/documents/readme-screenshots/form-validation-noentry.png)
+![Screenshot of Sign up form](/assets/documents/readme-screenshots/form-validation-valid-email.png)
+![Screenshot of Sign up form](/assets/documents/readme-screenshots/form-validation-successful-submission.png)
 
 * External Form Handling
 Utilizes formdump.codeinstitute.net for backend form handling which is an effective, lightweight solution for capturing and testing form submissions without building a custom backend.
@@ -267,24 +268,23 @@ Include a contact or feedback form so users can share suggestions, report issues
 
 * **Site Page**
 
-* ![Screenshot of responsive site](documents/homescreen-mobile.png)
-* ![Screenshot of responsive site](documents/homescreen-desktop.png)
+* ![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-mobile.png)
+* ![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-desktop.png)
 
 * **About Section**
 
-![Screenshot of responsive About section](documents/responsive-aboutsection-mobile.png)
-![Screenshot of responsive About section](documents/responsive-aboutsection.png)
+![Screenshot of responsive About section](assets/documents/readme-screenshots/responsive-aboutsection-mobile.png)
+![Screenshot of responsive About section](assets/documents/readme-screenshots/responsive-aboutsection.png)
 
 * **Chillzone Section**
 
-![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-mobile.png)
-![Screenshot of responsive Chillzone section](/documents/responsive-chillzone-desktop.png)
+![Screenshot of responsive Chillzone section](assets/documents/readme-screenshots/responsive-chillzone-mobile.png)
+![Screenshot of responsive Chillzone section](assets/documents/readme-screenshots/responsive-chillzone-desktop.png)
 
 * **Sign Up form page**
 
-![Screenshot of responsive Sign up Section](/documents/responsive-signup-mobile.png)
-![Screenshot of responsive Sign up Section](/documents/responsive-signup-desktop.png)
-​
+![Screenshot of responsive Sign up Section](assets/documents/readme-screenshots/responsive-signup-mobile.png)
+![Screenshot of responsive Sign up Section](assets/documents/readme-screenshots/responsive-signup-desktop.png)
 
 **Functionality**
 
@@ -295,7 +295,7 @@ Include a contact or feedback form so users can share suggestions, report issues
 * The form submits successfully when all required fields are filled in correctly.
 * I used *Lighthouse* to test the site. Results below:
 
-![Screenshot of lighthouse report](/documents/lighthouse-performance-report.png)
+![Screenshot of lighthouse report](assets/documents/readme-screenshots/lighthouse-performance-report.png)
 
 
 ## User Testing Results
@@ -317,13 +317,13 @@ Include a contact or feedback form so users can share suggestions, report issues
 * HTML Validation using w3c validator:
 
 * Validation Before
-![index.html](documents/html-validation-before-amendments.png)
+![index.html](assets/documents/readme-screenshots/html-validation-before-amendments.png)
 
 *Validation After
-![index.html](documents/html-validation-after-amendments.png)
+![index.html](assets/documents/readme-screenshots/html-validation-after-amendments.png)
 
 * CSS Validation using w3c jigsaw:
-![style.css](documents/css-validation.png)
+![style.css](assets/documents/readme-screenshots/css-validation.png)
 
 
 ​
