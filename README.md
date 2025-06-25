@@ -56,15 +56,33 @@ The site is include 3 sections:
 ​
 #### **User Stories:**
 * As a user, I want to browse curated Lofi playlists (e.g., study, chill, sleep), so I can find the right vibe easily
-* As a casual visitor, I want to discover what lofi music is and learn about its background so that I can understand the genre and appreciate the music while I listen.
 * As a user, I want to listen to Lofi music without distractions, so I can focus on my tasks.
-* As a user, I want to navigate the page to find what I require quickly and easily.
 * As a student or remote worker, I want to access relaxing lofi music playlists, so that I can stay focused and productive while working or studying.
+
+![Curated playlist](assets/documents/readme-screenshots/playlist-artist-info.png)
+![Curated playlist](assets/documents/readme-screenshots/playlist.png)
+
+* As a casual visitor, I want to discover what lofi music is and learn about its background so that I can understand the genre and appreciate the music while I listen.
+
+![about section](assets/documents/readme-screenshots/about-lofi-section.png)
+
+
+* As a user, I want to navigate the page to find what I require quickly and easily.
+![navigation](assets/documents/readme-screenshots/quick-navigation.png)
+
+
 * As a lofi music enthusiast, I want to sign up to receive the latest updates and playlists, so that I can stay informed and connected to the lofi community.
+
+![sign up form](assets/documents/readme-screenshots/signup-form.png)
+
 * As a mobile user, I want to navigate the site easily with responsive design and a burger menu, so that I can enjoy the full experience from any device.
+
+![mobile navigation](assets/documents/readme-screenshots/mobile-navigation.png)
+
 * As a visually impaired user,I want to navigate the website using screen readers and keyboard shortcuts, so that I can fully access all content and features without needing a mouse.
 
-
+![accessbility](assets/documents/readme-screenshots/wave.png)
+![accessbility](assets/documents/readme-screenshots/wave-report.png)
 
 ​
 #### **Site Aims:**
