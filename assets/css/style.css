@@ -228,7 +228,7 @@ form button {
 }
 
 .scroll-button:hover {
-  background: rgb(255, 182, 193)
+  background: rgb(255, 182, 193);
   color: #6a0572;
   transform: scale(1.05);
   box-shadow: 0 6px 20px #ffb3ec99;
