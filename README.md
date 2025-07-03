@@ -303,15 +303,15 @@ Include a contact or feedback form so users can share suggestions, report issues
 ​
 **Validators**
 
-* HTML Validation using w3c validator:
+ HTML Validation using w3c validator:
 
-* Validation Before
+Validation Before
 ![index.html](assets/documents/readme-screenshots/html-validation-before-amendments.png)
 
-*Validation After
+Validation After
 ![index.html](assets/documents/readme-screenshots/html-validation-after-amendments.png)
 
-* CSS Validation using w3c jigsaw:
+CSS Validation using w3c jigsaw:
 ![style.css](assets/documents/readme-screenshots/css-validation.png)
 
 
