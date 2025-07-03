@@ -58,33 +58,11 @@ The site is include 3 sections:
 * As a user, I want to browse curated Lofi playlists (e.g., study, chill, sleep), so I can find the right vibe easily
 * As a user, I want to listen to Lofi music without distractions, so I can focus on my tasks.
 * As a student or remote worker, I want to access relaxing lofi music playlists, so that I can stay focused and productive while working or studying.
-
-![Curated playlist](assets/documents/readme-screenshots/playlist-artist-info.png)
-![Curated playlist](assets/documents/readme-screenshots/playlist.png)
-
 * As a casual visitor, I want to discover what lofi music is and learn about its background so that I can understand the genre and appreciate the music while I listen.
-
-![about section](assets/documents/readme-screenshots/about-lofi-section.png)
-
-
 * As a user, I want to navigate the page to find what I require quickly and easily.
-![navigation](assets/documents/readme-screenshots/quick-navigation.png)
-
-
 * As a lofi music enthusiast, I want to sign up to receive the latest updates and playlists, so that I can stay informed and connected to the lofi community.
-
-![sign up form](assets/documents/readme-screenshots/signup-form.png)
-
 * As a mobile user, I want to navigate the site easily with responsive design and a burger menu, so that I can enjoy the full experience from any device.
-
-![mobile navigation](assets/documents/readme-screenshots/mobile-navigation.png)
-
 * As a visually impaired user,I want to navigate the website using screen readers and keyboard shortcuts, so that I can fully access all content and features without needing a mouse.
-
-![accessbility](assets/documents/readme-screenshots/wave.png)
-![accessbility](assets/documents/readme-screenshots/wave-report.png)
-
-​
 #### **Site Aims:**
 * To promote the genre of Lofi music and its origins.
 * To provide a platform for users to discover and listen to Lofi music playlists.
@@ -268,20 +246,20 @@ Include a contact or feedback form so users can share suggestions, report issues
 
 * **Site Page**
 
-* ![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-mobile.png)
-* ![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-desktop.png)
+![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-mobile.png)
+![Screenshot of responsive site](assets/documents/readme-screenshots/homescreen-desktop.png)
 
-* **About Section**
+**About Section**
 
 ![Screenshot of responsive About section](assets/documents/readme-screenshots/responsive-aboutsection-mobile.png)
 ![Screenshot of responsive About section](assets/documents/readme-screenshots/responsive-aboutsection.png)
 
-* **Chillzone Section**
+**Chillzone Section**
 
 ![Screenshot of responsive Chillzone section](assets/documents/readme-screenshots/responsive-chillzone-mobile.png)
 ![Screenshot of responsive Chillzone section](assets/documents/readme-screenshots/responsive-chillzone-desktop.png)
 
-* **Sign Up form page**
+**Sign Up form page**
 
 ![Screenshot of responsive Sign up Section](assets/documents/readme-screenshots/responsive-signup-mobile.png)
 ![Screenshot of responsive Sign up Section](assets/documents/readme-screenshots/responsive-signup-desktop.png)
@@ -311,6 +289,17 @@ Include a contact or feedback form so users can share suggestions, report issues
 | As a mobile user,I want to navigate the site easily with responsive design and a burger menu, So that I can enjoy the full experience from any device.| Resize the site using Devtools for device size responsiveness     | Burger icon is present on smaller screens, Navigation bar sticks to top of page once scrolled    |
 |  As a visually impaired user, I want to navigate the website using screen readers and keyboard shortcuts,So that I can fully access all content and features without needing a mouse.| Test labels are in appropriate places by running a screen reader over the site     |  Screen reader reads page as it should    |
 
+*User Stories Testing*
+![about section](assets/documents/readme-screenshots/about-lofi-section.png)
+
+![navigation](assets/documents/readme-screenshots/quick-navigation.png)
+
+![sign up form](assets/documents/readme-screenshots/signup-form.png)
+
+![mobile navigation](assets/documents/readme-screenshots/mobile-navigation.png)
+
+![accessbility](assets/documents/readme-screenshots/wave.png)
+![accessbility](assets/documents/readme-screenshots/wave-report.png)
 ​
 **Validators**
 
